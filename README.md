@@ -96,19 +96,3 @@ python inventory_management_system.py
 
 Developed as a Python-based Inventory Management System project.
 
-## Default Login Credentials
-
-### Admin Account
-
-| Username | Password    | Role  |
-| -------- | ----------- | ----- |
-| `admin`  | `adminpass` | Admin |
-
-### User Account
-
-| Username | Password   | Role |
-| -------- | ---------- | ---- |
-| `user`   | `userpass` | User |
-
-> **Note:** These are default credentials provided for testing and demonstration purposes only. In a production environment, passwords should be securely hashed and users should be allowed to create their own accounts.
-
